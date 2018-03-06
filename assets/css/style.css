@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: rgb(67, 196, 146);
+    color: white;
+}
+
+.panel-default>.panel-heading {
+    border-color: #ddd;
+    background-color: #0000ffbf;
+    color: white;
+}
+
+.panel-heading {
+    background-color: #0000ffbf;
+    color: white;
+}
